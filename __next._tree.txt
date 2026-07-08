@@ -1,0 +1,6 @@
+:HL["/konoba-de-loro-v3/_next/static/chunks/05c37_20jsyi9.css","style"]
+:HL["/konoba-de-loro-v3/_next/static/media/2aeed2bd2aff4ccd-s.p.3aibo0fea9uod.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-de-loro-v3/_next/static/media/9254db10a3b4f046-s.p.1s8vjit5iynwh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-de-loro-v3/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://images.unsplash.com/photo-1545214766-04116e13521c?auto=format&fit=crop&w=1900&q=80","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"jH72GdjYwtYT4IJeBscPl"}
